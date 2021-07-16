@@ -1,18 +1,6 @@
 # TeleChan - message api for telegram bot 
 > 可供多人发送消息的 telegram 机器人 api ， 类似server酱的开源实现
 
-## 直接试用我搭建的机器人
-
-1. 添加 @TeleChan8Bot
-2. 发送 /sendkey 获得 key 和 url
-3. 通过 url 发送请求即可
-
-## Example
-
-1. add @TeleChan8Bot in telegram
-2. `/sendkey` to get key & url
-3. send request via url 
-
 ## How to use
 
 1. star and fork this repo
@@ -58,9 +46,7 @@ Heavily modified base [Telegram Bot Boilerplate with Vercel's Serverless Functio
 
 ## 中文教程
 
-[![image](https://user-images.githubusercontent.com/1294760/115172022-f05da500-a0f6-11eb-9bb8-5919442523c6.png)](https://www.bilibili.com/video/BV1S5411c7Vy/)
-
-[安装视频@B站，欢迎关注作者](https://www.bilibili.com/video/BV1S5411c7Vy/)
+[安装视频](https://www.bilibili.com/video/BV1S5411c7Vy/)
 
 参数说明：
 
